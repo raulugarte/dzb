@@ -20,7 +20,7 @@
   --background-color: #fff;
   --overlay-background-color: #eee;
   --highlight-background-color: #ccc;
-  --text-color: #f08200;
+  --text-color: #202020;
   --text-color-light: #ebebeb;
   /* --> RUG
    --heading-highlight-color: #ffea00; */
@@ -93,6 +93,7 @@ h4, h5, h6 {
   margin-top: 1em;
   margin-bottom: .5em;
   scroll-margin: calc(var(--nav-height) + 1em);
+ color: #f08200;
 }
 
 h1 {
