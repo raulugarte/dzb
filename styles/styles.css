@@ -29,9 +29,9 @@
   --highlight-text-color: var(--text-color);
 
   /* fonts */
-  --body-font-family: arial, 'Source Sans Pro', 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
-  --heading-font-family: arial, asar, georgia, 'Times New Roman', times, serif;
-  --fixed-font-family: arial, 'Roboto Mono', menlo, consolas, 'Liberation Mono', monospace;
+  --body-font-family: "Frutiger Next Com",Arial,Verdana,sans-serif;
+  --heading-font-family: "Frutiger Next Com",Arial,Verdana,sans-serif;
+  --fixed-font-family: "Frutiger Next Com",Arial,Verdana,sans-serif;
 
   /* body sizes */
   --body-font-size-m: 22px;
