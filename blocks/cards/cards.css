@@ -17,6 +17,11 @@
   text-align: left;
 }
 
+.cards .cards-card-body h2 {
+  font-size: larger;
+    margin: 10px;
+}
+
 .cards .cards-card-body h3 {
   font-size: var(--body-font-size-xs);
 }
