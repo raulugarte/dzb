@@ -30,6 +30,13 @@
   font-size: var(--body-font-size-xxs);
 }
 
+.cards .cards-card-body p {
+    display: -webkit-box;
+  -webkit-line-clamp: 3; /* Anzahl der Zeilen */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .cards .cards-card-image {
   line-height: 0;
 }
